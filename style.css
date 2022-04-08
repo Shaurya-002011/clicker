@@ -1,0 +1,38 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+	background-image:linear-gradient(to top left,  #0c7565, #06565c, #0c5675);
+}
+
+.header
+{
+	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+
+#blast
+{
+	font-size: 20px; 
+    color: red;
+    float: right;
+}
+
+.rules_div
+{
+	background-image:linear-gradient(to bottom right,  #0dbf90, #0ec767, #18bab5);float: none;border-radius: 15px;
+}
+
+#jado
+{
+    background-color: brown;
+    font-size:100px;
+}
+
+#click_me
+{
+    display: none;
+}
